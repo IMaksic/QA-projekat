@@ -1,0 +1,16 @@
+C:\Users\Isidora\Desktop\Git\QA projekat\Humanity Automatization\Humanity Automatization\bin\Debug\netcoreapp3.1\Humanity Automatization.exe
+C:\Users\Isidora\Desktop\Git\QA projekat\Humanity Automatization\Humanity Automatization\bin\Debug\netcoreapp3.1\Humanity Automatization.deps.json
+C:\Users\Isidora\Desktop\Git\QA projekat\Humanity Automatization\Humanity Automatization\bin\Debug\netcoreapp3.1\Humanity Automatization.runtimeconfig.json
+C:\Users\Isidora\Desktop\Git\QA projekat\Humanity Automatization\Humanity Automatization\bin\Debug\netcoreapp3.1\Humanity Automatization.runtimeconfig.dev.json
+C:\Users\Isidora\Desktop\Git\QA projekat\Humanity Automatization\Humanity Automatization\bin\Debug\netcoreapp3.1\Humanity Automatization.dll
+C:\Users\Isidora\Desktop\Git\QA projekat\Humanity Automatization\Humanity Automatization\bin\Debug\netcoreapp3.1\Humanity Automatization.pdb
+C:\Users\Isidora\Desktop\Git\QA projekat\Humanity Automatization\Humanity Automatization\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Isidora\Desktop\Git\QA projekat\Humanity Automatization\Humanity Automatization\bin\Debug\netcoreapp3.1\WebDriver.dll
+C:\Users\Isidora\Desktop\Git\QA projekat\Humanity Automatization\Humanity Automatization\obj\Debug\netcoreapp3.1\Humanity Automatization.csprojAssemblyReference.cache
+C:\Users\Isidora\Desktop\Git\QA projekat\Humanity Automatization\Humanity Automatization\obj\Debug\netcoreapp3.1\Humanity Automatization.AssemblyInfoInputs.cache
+C:\Users\Isidora\Desktop\Git\QA projekat\Humanity Automatization\Humanity Automatization\obj\Debug\netcoreapp3.1\Humanity Automatization.AssemblyInfo.cs
+C:\Users\Isidora\Desktop\Git\QA projekat\Humanity Automatization\Humanity Automatization\obj\Debug\netcoreapp3.1\Humanity Automatization.csproj.CopyComplete
+C:\Users\Isidora\Desktop\Git\QA projekat\Humanity Automatization\Humanity Automatization\obj\Debug\netcoreapp3.1\Humanity Automatization.dll
+C:\Users\Isidora\Desktop\Git\QA projekat\Humanity Automatization\Humanity Automatization\obj\Debug\netcoreapp3.1\Humanity Automatization.pdb
+C:\Users\Isidora\Desktop\Git\QA projekat\Humanity Automatization\Humanity Automatization\bin\Debug\netcoreapp3.1\IronXL.dll
+C:\Users\Isidora\Desktop\Git\QA projekat\Humanity Automatization\Humanity Automatization\bin\Debug\netcoreapp3.1\WebDriver.Support.dll
